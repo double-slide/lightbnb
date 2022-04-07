@@ -4,7 +4,7 @@ VALUES
 ('Steven Segall', 'bad@actor.com', '$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.'),
 ('Chuck Norris', 'chuck@norris.com', '$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.');
 
-INSERT INTO properties (owner_id, title, description, thubmnail_photo_url, cover_photo_url, cost_per_night, parking_spaces, number_of_bathrooms, number_of_bedrooms, country, street, city, province, post_code)
+INSERT INTO properties (owner_id, title, description, thumbnail_photo_url, cover_photo_url, cost_per_night, parking_spaces, number_of_bathrooms, number_of_bedrooms, country, street, city, province, post_code)
 VALUES
 (1, 'House', 'Description', 'img1.com', 'img2.com', 75, 1, 3, 4, 'Canada', 'Main St.', 'Vancouver', 'British Columbia', 'A1B 2C3'),
 (2, 'Apartment', 'Description', 'img1.com', 'img2.com', 85, 1, 2, 2, 'Canada', 'Side St.', 'Vancouver', 'British Columbia', 'A1B 2C4'),
